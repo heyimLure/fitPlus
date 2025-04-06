@@ -48,3 +48,30 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## --------------------------------------------------------------------------------------------------------------------------
+
+# FitPlus
+
+Aplicativo mobile para cálculo do IMC (Índice de Massa Corporal) com armazenamento de histórico, gráfico de evolução e interface moderna inspirada na OneUI da Samsung.
+
+---
+
+## Funcionalidades
+
+- Cálculo do IMC com classificação (Magreza, Normal, Sobrepeso, etc.)
+- Gráfico de evolução com os últimos resultados
+- Histórico salvo localmente com data e hora
+- Interface amigável com tema escuro e responsivo
+- Design moderno com fontes móveis e logo personalizada
+
+---
+
+## Tecnologias Utilizadas
+
+- **React Native** com **Expo**
+- **TypeScript**
+- **React Native Chart Kit**
+- **AsyncStorage** para persistência de dados
+- **Google Fonts (Inter)**
+
